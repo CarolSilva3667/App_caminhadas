@@ -65,29 +65,29 @@ flutter run
 
 ## Prints
 
+- **Inicio**
+- ![Inicio](Prints/Inicio.jpg)
+
 - **Home**
-![Home](Prints/Home.jpg)
+- ![Home](Prints/Home.jpg)
 
 - **Home, Tema: Claro**
-![Home_claro](Prints/Home_claro.jpg)
-
-- **Inicio**
-![Inicio](Prints/Inicio.jpg)
+- ![Home_claro](Prints/Home_claro.jpg)
 
 - **Menu Lateral**
-![Menu lateral](Prints/Menulateral.jpg)
-
-- **Minhas Caminhadas**
-![Minhas Caminhadas](Prints/MinhasCaminhadas.jpg)
+- ![Menu lateral](Prints/Menulateral.jpg)
 
 - **Nova Caminhada**
-![Nova Caminhada](Prints/NovaCaminhada.jpg)
+- ![Nova Caminhada](Prints/NovaCaminhada.jpg)
 
 - **Rota Escolhida**
-![Rota](Prints/Rota.jpg)
+- ![Rota](Prints/Rota.jpg)
 
 - **Salvar Caminhada**
 ![Salvar Caminhada](Prints/SalvarCaminhada.jpg)
+
+- **Minhas Caminhadas**
+- ![Minhas Caminhadas](Prints/MinhasCaminhadas.jpg)
 
 # Autora
 
