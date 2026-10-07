@@ -84,7 +84,7 @@ flutter run
 - ![Rota](Prints/Rota.jpg)
 
 - **Salvar Caminhada**
-![Salvar Caminhada](Prints/SalvarCaminhada.jpg)
+- ![Salvar Caminhada](Prints/SalvarCaminhada.jpg)
 
 - **Minhas Caminhadas**
 - ![Minhas Caminhadas](Prints/MinhasCaminhadas.jpg)
