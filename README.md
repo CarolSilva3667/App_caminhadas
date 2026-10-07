@@ -1,17 +1,70 @@
-# app_caminhadas
+# App Caminhadas
 
-A new Flutter project.
+## Sobre o projeto
 
-## Getting Started
+O **App Caminhadas** foi desenvolvido como atividade da disciplina de **PPDM 2 - Aula 05**, com o objetivo de aplicar conceitos de desenvolvimento mobile e utilização de mapas e localização.
 
-This project is a starting point for a Flutter application.
+Com o aplicativo, o usuário pode:
 
-A few resources to get you started if this is your first Flutter project:
+- 📍 Obter sua localização atual;
+- 🗺️ Visualizar o mapa;
+- 📌 Escolher um destino para a caminhada;
+- 🚶 Registrar uma nova caminhada;
+- 📏 Visualizar a distância percorrida;
+- ⏱️ Visualizar o tempo estimado;
+- 🔥 Visualizar as calorias estimadas;
+- 📸 Adicionar uma foto à caminhada;
+- 📋 Consultar as caminhadas salvas;
+- 🌙 Alternar entre tema claro e escuro.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias utilizadas
+
+- **Flutter**
+- **Dart**
+- **Flutter Map**
+- **OpenStreetMap**
+- **Geolocator**
+- **LatLong2**
+- **Image Picker**
+- **Shared Preferences**
+- **APIs de localização e rotas**
+
+## Como executar o projeto
+1. Clonar o repositório
+
+```text
+git clone COLE_AQUI_O_LINK_DO_SEU_REPOSITORIO
+```
+
+2. Entrar na pasta do projeto
+
+```text
+cd app_caminhadas
+```
+
+3. Instalar as dependências
+
+```text
+flutter pub get
+```
+
+4. Verificar se o Flutter está configurado
+
+```text
+flutter doctor
+```
+
+5. Executar o aplicativo
+Para executar no dispositivo conectado:
+
+```text
+flutter run
+```
+
+# Autora
+
+Caroline Silva
+
+Projeto desenvolvido para a disciplina de PPDM 2 - Desenvolvimento de Sistemas.
