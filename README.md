@@ -64,28 +64,29 @@ flutter run
 ```
 
 ## Prints
-**Home**
+
+- **Home**
 ![Home](Prints/Home.jpg)
 
-**Home, Tema: Claro**
+- **Home, Tema: Claro**
 ![Home_claro](Prints/Home_claro.jpg)
 
-**Inicio**
+- **Inicio**
 ![Inicio](Prints/Inicio.jpg)
 
-**Menu Lateral**
+- **Menu Lateral**
 ![Menu lateral](Prints/Menulateral.jpg)
 
-**Minhas Caminhadas**
+- **Minhas Caminhadas**
 ![Minhas Caminhadas](Prints/MinhasCaminhadas.jpg)
 
-**Nova Caminhada**
+- **Nova Caminhada**
 ![Nova Caminhada](Prints/NovaCaminhada.jpg)
 
-**Rota Escolhida**
+- **Rota Escolhida**
 ![Rota](Prints/Rota.jpg)
 
-**Salvar Caminhada**
+- **Salvar Caminhada**
 ![Salvar Caminhada](Prints/SalvarCaminhada.jpg)
 
 # Autora
