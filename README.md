@@ -6,16 +6,16 @@ O **App Caminhadas** foi desenvolvido como atividade da disciplina de **PPDM 2 -
 
 Com o aplicativo, o usuário pode:
 
-- 📍 Obter sua localização atual;
-- 🗺️ Visualizar o mapa;
-- 📌 Escolher um destino para a caminhada;
-- 🚶 Registrar uma nova caminhada;
-- 📏 Visualizar a distância percorrida;
-- ⏱️ Visualizar o tempo estimado;
-- 🔥 Visualizar as calorias estimadas;
-- 📸 Adicionar uma foto à caminhada;
-- 📋 Consultar as caminhadas salvas;
-- 🌙 Alternar entre tema claro e escuro.
+- Obter sua localização atual;
+- Visualizar o mapa;
+- Escolher um destino para a caminhada;
+- Registrar uma nova caminhada;
+- Visualizar a distância percorrida;
+- Visualizar o tempo estimado;
+- Visualizar as calorias estimadas;
+- Adicionar uma foto à caminhada;
+- Consultar as caminhadas salvas;
+- Alternar entre tema claro e escuro.
 
 ---
 
@@ -62,6 +62,9 @@ Para executar no dispositivo conectado:
 ```text
 flutter run
 ```
+
+## Prints
+
 
 # Autora
 
