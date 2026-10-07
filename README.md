@@ -66,12 +66,12 @@ flutter run
 ## Prints
 ![Home](Prints/Home.jpg)
 ![Home_claro](Prints/Home_claro.jpg)
-![Inicio](Prints/Inicio)
+![Inicio](Prints/Inicio.jpg)
 ![Menu lateral](Prints/Menulateral.jpg)
-![Minhas Caminhadas](Prints/MinhasCaminhadas)
-![Nova Caminhada](Prints/NovaCaminhada)
-![Rota](Prints/Rota)
-![Salvar Caminhada](Prints/SalvarCaminhada)
+![Minhas Caminhadas](Prints/MinhasCaminhadas.jpg)
+![Nova Caminhada](Prints/NovaCaminhada.jpg)
+![Rota](Prints/Rota.jpg)
+![Salvar Caminhada](Prints/SalvarCaminhada.jpg)
 
 # Autora
 
